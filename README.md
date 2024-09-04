@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm Shivam Garg, a Software Engineering student from Australia.
+I am deeply passionate about exploring Artificial Intelligence, and I am a self-proclaimed
+hardware enthusiast. Whether it's building projects or pushing the limits of hardware, I'm
+always up for a challenge. Let's connect and collaborate!
 <!--
 **shiv-0831/shiv-0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
