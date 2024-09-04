@@ -5,8 +5,9 @@ myself a self-proclaimed hardware enthusiast. Whether it's building projects or
 pushing the limits of hardware, I'm always up for a challenge.
 Let's connect and collaborate!
 
-### 🔭 Interests
 ##
+
+### 🔭 Interests
 - Aritificial Intelligence
 - Web Development
 
