@@ -6,10 +6,12 @@ pushing the limits of hardware, I'm always up for a challenge.
 Let's connect and collaborate!
 
 ### 🔭 Interests
+#
 - Aritificial Intelligence
 - Web Development
 
 ### 🧰 Languages and Tools
+#
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
