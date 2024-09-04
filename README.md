@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📊 Stats
-## Place to insert all the stats
+Place to insert all the stats
