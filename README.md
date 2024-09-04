@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 #
 
 ### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiv-0831&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiv-0831&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shiv-0831&theme=tokyonight&border_radius=4.5)
