@@ -1,8 +1,8 @@
 ## Hi there 👋
 I'm Shivam Garg, a Software Engineering student from Australia.
 I am deeply passionate about exploring Artificial Intelligence, and consider
-myself a self-proclaimed hardware enthusiast. Whether it's building projects or
-pushing the limits of hardware, I'm always up for a challenge.
+myself a hardware enthusiast. Whether it's building projects orpushing the
+limits of hardware, I'm always up for a challenge.
 Let's connect and collaborate!
 
 ##
